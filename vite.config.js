@@ -10,6 +10,7 @@ export default defineConfig({
         vue(),
         vueDevTools(),
     ],
+    // 追記
     server: {
         host: true
     },
